@@ -1,0 +1,8 @@
+.container{
+    margin: 5px;
+    text-align: center;
+}
+.container, button{
+    padding: 5px;
+    border-radius: 5px;
+}
